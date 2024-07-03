@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3762761342
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab
+      Dependencies: {}
+    Info_1:
+      Name: prefabgirl
+      Dependencies:
+        Dependency_0: prefabboy
+    Info_2:
+      Name: prefabboy
+      Dependencies: {}
